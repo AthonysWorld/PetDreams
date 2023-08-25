@@ -1,0 +1,169 @@
+
+  body{
+  margin: 0;
+  padding: 0;
+  color: black;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+}
+h1{
+  color: white;
+}
+span{
+  color: #FF4D4D; 
+}
+.navbar{
+  background-color: black;
+  padding: 10px;
+}
+.nav-link{
+  color: white;
+}
+.navbar-toggler{
+  background-color: white;  
+}
+.slide{
+  background-color:#FFC632;
+  margin: 0;
+  padding: 0;
+}
+.Picturetwo{
+  width: 100%;
+}
+h1{
+  font-size: 3.5em;
+}
+.top{
+  margin-top: 60px;
+}
+
+#carouselExample{
+  width: 400px;
+  height: 200px;
+  margin-top: 50px;
+  margin-left: 80px;
+}
+.detail{
+  padding: 50px;
+  padding-top: 150px;
+  text-align: left;
+  justify-content: left;
+  align-items: left;
+}
+.btn{
+  background-color: #FF4D4D;
+  color: white;
+  border-radius: 5px;
+}
+.btn1{
+  width: 150px;
+}
+.card{
+  width: 150px;
+  margin-right: 10px;
+}
+.pet{
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  padding: 0 50px 0 50px;
+  background-color: #FFC632;
+  margin-top: 50px;
+}
+
+.pet-card{
+width: 200px;
+margin-right: 50px;
+margin-left: 50px;
+height: auto;
+text-align: left;
+}
+.card-pic{
+  width: 80%;
+}
+.card-text{
+padding: 30px;
+text-align: left;
+padding-top: 150px;
+}
+.carousel-item{
+  height: 400px;
+}
+.two{
+  background-color: #FBF6ED;
+}
+.card-img{
+  margin: 10px;
+}
+.card-img1{
+  margin: 10px;
+}
+
+.Footer{
+  background: rgba(0, 0, 0, 0.7)url(./images/whitegsd.jpg) no-repeat;
+  background-blend-mode: darken;
+  background-size: cover;
+  height: 100vh;
+  text-align: center;
+    align-items: center;
+    justify-content: center;
+    padding-top: 20px;
+  
+}
+input{
+  height: 50px;
+  width: 400px;
+  border-radius: 5px;
+  margin-top: 20px;
+}
+.message{
+  height: 200px;
+}
+li{
+  list-style-type: none;
+}
+hr{
+  margin-top: 50px;
+  color: #FFC632;
+border-top: 5px solid ;
+  
+}
+/* Media Q */
+@media (max-width: 767px) {
+  .pets-row{
+    text-align: center;
+    align-items: center;
+  }
+  .card-text{
+    padding: 10px;
+    text-align: left;
+    padding-top: 50px;
+    }
+    h1{
+      font-size: 2.5em;
+    }
+    .detail{
+      padding: 10px;
+      padding-top: 50px;
+      text-align: left;
+      justify-content: left;
+      align-items: left;
+    }
+    .card-img{
+      height: 200px;
+      width: 200px;
+      margin: 10px;
+    }
+    .card-img1{
+      margin: 10px;
+      height: 100px;
+    }
+    .Footer{
+      background: rgba(0, 0, 0, 0.7)url(./images/whitegsd.jpg) no-repeat;
+      background-blend-mode: darken;
+      background-size: cover;
+      height: 100vh;
+      width: 100%;
+    }
+}
