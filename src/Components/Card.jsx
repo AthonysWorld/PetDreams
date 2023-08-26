@@ -3,7 +3,7 @@ import image2 from '../images/lazycat.png'
 import image3 from '../images/gsdface.png'
 import image4 from '../images/parrots.png'
 import image5 from '../images/finerat.png'
-import image6 from '../images/info.png'
+import image6 from '../images/Info.png'
 const Card = () => {
   return (
     <div className='two'>
