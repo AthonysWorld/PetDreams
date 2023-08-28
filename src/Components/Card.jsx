@@ -7,6 +7,9 @@ import image6 from '../images/Info.png'
 const Card = () => {
   return (
     <div className='two'>
+    <h3>
+      Our progenies
+    </h3>
       <div className="container-fluid row">
 
 

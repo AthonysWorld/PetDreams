@@ -1,4 +1,5 @@
 
+
   body{
   margin: 0;
   padding: 0;
@@ -56,6 +57,21 @@ h1{
 }
 .pad{
   margin-left: 20px;
+}
+.third{
+  background-color: #FBF6ED;
+  padding-left: 15px;
+  margin-bottom: 200px;
+}
+.third h1{
+  color: #FF4D4D;
+}
+.two{
+  padding-top: 20px;
+}
+.two h3{
+  margin-bottom:40px ;
+  color: #FF4D4D;
 }
 .btn{
   background-color: #FF4D4D;
@@ -121,6 +137,12 @@ padding-top: 150px;
     padding-top: 20px;
   
 }
+.cardy{
+  width: 200px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+    }
+    
 input{
   height: 50px;
   width: 400px;
@@ -150,9 +172,7 @@ hr{
     justify-content: center;
     padding-left: 100px;
   }
-  .pet-card{
-    margin-right: 20px;
-  }
+
   .card-text{
     padding: 10px;
     text-align: left;
