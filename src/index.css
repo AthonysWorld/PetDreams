@@ -150,6 +150,9 @@ hr{
     justify-content: center;
     padding-left: 100px;
   }
+  .pet-card{
+    margin-right: 20px;
+  }
   .card-text{
     padding: 10px;
     text-align: left;
