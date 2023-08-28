@@ -56,7 +56,9 @@ h1{
 }
 .btn{
   background-color: #FFC632;
-  
+}
+.btn:hover{
+  background-color: #FF4D4D;
 }
 .btn2{
   background-color: #FF4D4D;
