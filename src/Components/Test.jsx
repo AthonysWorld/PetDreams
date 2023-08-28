@@ -1,22 +1,14 @@
-
 import Pic from '../images/landing dog.png'
 import Pic1 from '../images/parrot.png'
 import Pic2 from '../images/pitbull.png'
-const Slide = () => {
-  return (
-    <div className='top'>
-    <div className='container-fluid row slide'>
-<div className='container detail col-lg-6 col-md-6'>
-<h1>
-Hello i'm <span>Daisy,</span><br/> welcome to <span>PetDreams</span>
-</h1>
-<h6>
-I hope you find all the information you need to make the best<br/>decision for your pet.
-</h6>
-<button className='btn btn1 btn-large'>Contact us</button>
 
-</div>
-<div className='container one col-lg-6 col-md-6'>
+
+
+
+const Test = () => {
+  return (
+    <div>
+
 <div id="carouselExampleInterval" className="carousel slide" data-bs-ride="carousel">
   <div className="carousel-inner">
     <div className="carousel-item active" data-bs-interval="1500">
@@ -38,14 +30,8 @@ I hope you find all the information you need to make the best<br/>decision for y
     <span className="visually-hidden">Next</span>
   </button>
 </div>
-</div>
-
-    </div> 
-
-    
-     
     </div>
   )
 }
 
-export default Slide
+export default Test

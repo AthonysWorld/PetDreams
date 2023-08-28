@@ -50,11 +50,15 @@ h1{
   text-align: left;
   justify-content: left;
   align-items: left;
+  color: #000;
 }
 .btn{
   background-color: #FF4D4D;
   color: white;
   border-radius: 5px;
+}
+.slidee-btn{
+visibility: hidden;
 }
 .btn1{
   width: 150px;
@@ -125,15 +129,20 @@ li{
 }
 hr{
   margin-top: 50px;
-  color: #FFC632;
-border-top: 5px solid ;
-  
+ color: #fff;
 }
 /* Media Q */
+
 @media (max-width: 767px) {
   .pets-row{
     text-align: center;
     align-items: center;
+  }
+  .one{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    padding-left: 100px;
   }
   .card-text{
     padding: 10px;
@@ -151,13 +160,11 @@ border-top: 5px solid ;
       align-items: left;
     }
     .card-img{
-      height: 200px;
-      width: 200px;
       margin: 10px;
     }
     .card-img1{
       margin: 10px;
-      height: 100px;
+      width: 95%;
     }
     .Footer{
       background: rgba(0, 0, 0, 0.7)url(./images/whitegsd.jpg) no-repeat;

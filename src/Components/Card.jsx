@@ -10,19 +10,17 @@ const Card = () => {
       <div className="container-fluid row">
 
 
-<div className="container col-lg-4 col-5" >
-<img className='card-img1' src={image5}/>
+<div className="container col-lg-6 col-5" >
+<img className='card-img1' src={image3}/>
 <img  className='card-img' src={image1}/>
 </div>
 
-<div className="container col-lg-4 col-5">
+<div className="container col-lg-6 col-5">
 <img className='card-img' src={image2}/>
-<img className='card-img1' src={image3}/>
+
 </div>
 
-<div className="container col-lg-4 col-5">
-<img className='card-img' src={image4}/>
-</div>
+
       </div>{/* end of fluid one */}
 <div className='container-fluid  row'>
 <div className='container col-lg-6 card-text '>
