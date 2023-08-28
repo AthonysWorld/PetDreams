@@ -66,7 +66,7 @@ const Pets = () => {
   </div>
 
 
-  <button className="carousel-control-prev  pad" type="button" data-bs-target="#carouselExampleAutoplaying" data-bs-slide="prev">
+  <button className="carousel-control-prev" type="button" data-bs-target="#carouselExampleAutoplaying" data-bs-slide="prev">
     <span className="carousel-control-prev-icon" aria-hidden="true"></span>
     <span className="visually-hidden">Previous</span>
   </button>

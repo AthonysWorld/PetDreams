@@ -1,4 +1,4 @@
-import PIC from '../images/paw-print-svgrepo-com 1.png'
+import PIC from '../images/paws.png'
 
 const Nav = () => {
   return (

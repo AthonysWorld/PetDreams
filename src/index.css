@@ -54,18 +54,19 @@ h1{
   align-items: left;
   color: #000;
 }
+.pad{
+  margin-left: 20px;
+}
 .btn{
-  background-color: #FFC632;
-}
-.btn:hover{
-  background-color: #FF4D4D;
-}
-.btn2{
   background-color: #FF4D4D;
   color: white;
   border-radius: 5px;
 }
-
+.btn:hover{
+  background-color: #FF4D4D;
+  color: white;
+  border-radius: 5px; 
+}
 .btn1{
   width: 150px;
 }
