@@ -7,6 +7,8 @@
   justify-content: center;
   align-items: center;
 }
+
+
 h1{
   color: white;
 }
@@ -53,13 +55,15 @@ h1{
   color: #000;
 }
 .btn{
+  background-color: #FFC632;
+  
+}
+.btn2{
   background-color: #FF4D4D;
   color: white;
   border-radius: 5px;
 }
-.slidee-btn{
-visibility: hidden;
-}
+
 .btn1{
   width: 150px;
 }
@@ -75,7 +79,6 @@ visibility: hidden;
   background-color: #FFC632;
   margin-top: 50px;
 }
-
 .pet-card{
 width: 200px;
 margin-right: 50px;
@@ -149,6 +152,7 @@ hr{
     text-align: left;
     padding-top: 50px;
     }
+   
     h1{
       font-size: 2.5em;
     }
@@ -161,10 +165,12 @@ hr{
     }
     .card-img{
       margin: 10px;
+      height: auto;
+      width: 100%;
     }
     .card-img1{
       margin: 10px;
-      width: 95%;
+      width: 100%;
     }
     .Footer{
       background: rgba(0, 0, 0, 0.7)url(./images/whitegsd.jpg) no-repeat;
@@ -172,5 +178,16 @@ hr{
       background-size: cover;
       height: 100vh;
       width: 100%;
+    }
+    .foot{
+      width: 100%;
+      padding: 10px;
+    }
+    input{
+      width: 90%;
+      margin: 0%;
+      margin-top: 10px;
+      margin-bottom: 5px;
+      padding: 5px;
     }
 }

@@ -11,7 +11,7 @@ Hello i'm <span>Daisy,</span><br/> welcome to <span>PetDreams</span>
 <h6>
 I hope you find all the information you need to make the best<br/>decision for your pet.
 </h6>
-<button className='btn btn1 btn-large'>Contact us</button>
+<button className='btn btn2 btn1 btn-large'>Contact us</button>
 
 </div>
 <div className='container one col-lg-6 col-md-6'>

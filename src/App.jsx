@@ -3,7 +3,7 @@ import Slide from './Components/Slide'
 import Pets from './Components/Pets'
 import Card from './Components/Card'
 import Footer from './Components/Footer'
-
+import Store from './Components/Store'
 
 const App = () => {
   return (
@@ -11,6 +11,7 @@ const App = () => {
     <Nav/>
       <Slide/>
       <Pets/>
+      <Store/>
       <Card/>
       <Footer/>
       
