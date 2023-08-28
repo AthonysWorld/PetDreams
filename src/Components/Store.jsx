@@ -9,7 +9,7 @@ const Store = () => {
     <div className='third'>
     <h1>Available pets</h1>
       <div className="container-fluid third row">
-      <div className="container col-lg-3 col-6">
+      <div className="container col-lg-3 col-5 ml-auto">
 <div className='card cardy'>
 <img src={Pic3} className="card-img-top"/>
    <div className="card-body">
@@ -19,7 +19,7 @@ const Store = () => {
    </div>
 </div>
       </div>
-      <div className="container col-lg-3 col-6">
+      <div className="container col-lg-3 col-5">
       <div className='card cardy'>
     <img src={Pic4} className="card-img-top"/>
     <div className="card-body">
@@ -29,7 +29,7 @@ const Store = () => {
    </div>
 </div>
 </div>
-<div className="container col-lg-3 col-6">
+<div className="container col-lg-3 col-5">
 <div className='card cardy'>
     <img src={Pic2} className="card-img-top"/>
     <div className="card-body">
@@ -39,7 +39,7 @@ const Store = () => {
    </div>
 </div>
 </div>
-<div className="container col-lg-3 col-6">
+<div className="container col-lg-3 col-5">
 <div className='card cardy'>
     <img src={Pic3} className="card-img-top"/>
     <div className="card-body">
