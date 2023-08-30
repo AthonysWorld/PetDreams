@@ -31,8 +31,7 @@ const Card = () => {
 <h3>Do you know that</h3>
 <p>Pets provide unconditional love and companionship, which can be especially beneficial for those who live alone. They can also be a great source of stress relief and help reduce anxiety. Finally, having a pet can encourage outdoor activities and physical exercise, providing both physical and mental health benefits for the whole family.
 </p>
-<p>Pets provide unconditional love and companionship, which can be especially beneficial for those who live alone. They can also be a great source of stress relief and help reduce anxiety. Finally, having a pet can encourage outdoor activities and physical exercise, providing both physical and mental health benefits for the whole family.
-</p>
+
 </div>
 <div className='container col-lg-6'>
 <img className='card-pic' src={image6}/>

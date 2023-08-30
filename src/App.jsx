@@ -1,5 +1,6 @@
 import Nav from './Components/Nav'
 import Slide from './Components/Slide'
+import About from './Components/About'
 import Pets from './Components/Pets'
 import Card from './Components/Card'
 import Footer from './Components/Footer'
@@ -10,6 +11,7 @@ const App = () => {
     <div>
     <Nav/>
       <Slide/>
+    <About/>
       <Pets/>
       <Store/>
       <Card/>
