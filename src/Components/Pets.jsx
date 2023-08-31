@@ -5,7 +5,7 @@ import image3 from '../images/cat.png'
 const Pets = () => {
   return (
     <div className='pet'>
-    <h2>Featured pets</h2>
+    <span><h2>Featured pets</h2></span>
     <div id="carouselExampleAutoplaying" className="carousel slide" data-bs-ride="carousel">
   <div className="carousel-inner">
     <div className="carousel-item carousel-item active">

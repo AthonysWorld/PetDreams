@@ -13,70 +13,69 @@ const Store = () => {
     <h1>Pet Essentials</h1>
       <div className="container-fluid third row">
       <div className="container col-lg-3 col-5 ml-auto">
-<div className='card cardy'>
+<div className='card caddy'>
 <img src={Pic3} className="card-img-top storex"/>
-<p>hello</p>
-<button className='btn'>View</button>
+<h6>NutriChoice</h6>
+<p>#5</p>
+<button className='btn'>Add</button>
 
 </div>
       </div>
       <div className="container col-lg-3 col-5">
-      <div className='card cardy'>
+      <div className='card caddy'>
     <img src={Pic4} className="card-img-top"/>
-    <p>hello</p>
-   <button className='btn'>View</button>
-
+    <h6>Epigamia</h6>
+<p>#10</p>
+<button className='btn'>Add</button>
 </div>
 </div>
 <div className="container col-lg-3 col-5">
-<div className='card cardy'>
+<div className='card caddy'>
     <img src={Pic2} className="card-img-top"/>
-    <p>hello</p>
-   <button className='btn'>View</button>
+    <h6>5 star</h6>
+<p>#3</p>
+<button className='btn'>Add</button>
 </div>
 </div>
 <div className="container col-lg-3 col-5">
-<div className='card cardy'>
+<div className='card caddy'>
     <img src={Pic3} className="card-img-top"/>
-    <p>hello</p>
-   <button className='btn'>View</button>
+    <h6>Jays</h6>
+<p>#2</p>
+<button className='btn'>Add</button>
 </div>
 </div>
 
 <div className="container col-lg-3 col-5">
-      <div className='card cardy'>
+      <div className='card caddy'>
     <img src={Pic4} className="card-img-top"/>
-    <p>hello</p>
-   <button className='btn'>View</button>
-
+    <h6>Epigamia</h6>
+<p>#5</p>
+<button className='btn'>Add</button>
 </div>
 </div>
 <div className="container col-lg-3 col-5">
-<div className='card cardy'>
+<div className='card caddy'>
     <img src={Pic5} className="card-img-top"/>
-   
-    <p>hello</p>
-   <button className='btn'>View</button>
-
+    <h6>Cheese</h6>
+<p>#5</p>
+<button className='btn'>Add</button>
 </div>
 </div>
 <div className="container col-lg-3 col-5">
-<div className='card cardy'>
+<div className='card caddy'>
     <img src={Pic6} className="card-img-top"/>
-    
-    <p>hello</p>
-   <button className='btn'>View</button>
-
+    <h6>Corn</h6>
+<p>#5</p>
+<button className='btn'>Add</button>
 </div>
 </div>
 <div className="container col-lg-3 col-5">
-<div className='card cardy'>
+<div className='card caddy'>
     <img src={Pic1} className="card-img-top"/>
-    
- <p>hello</p>
-   <button className='btn'>view</button>
-
-   
+    <h6>NutriChoice</h6>
+<p>#5</p>
+<button className='btn'>Add</button>   
 </div>
 </div>
 

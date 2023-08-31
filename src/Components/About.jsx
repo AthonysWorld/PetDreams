@@ -5,6 +5,7 @@ import Pic2 from '../images/product6.jpg';
 const About = () => {
   return (
     <div>
+    <h3>Popular Products</h3>
       <div className="container-fluid about-row row">
 <div className="container col-lg-6">
 <div className='row'>
