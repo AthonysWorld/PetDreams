@@ -3,6 +3,7 @@ import Slide from './Components/Slide'
 import About from './Components/About'
 import Pets from './Components/Pets'
 import Card from './Components/Card'
+import Daily from './Components/Daily'
 import Footer from './Components/Footer'
 import Store from './Components/Store'
 
@@ -15,6 +16,7 @@ const App = () => {
       <Pets/>
       <Store/>
       <Card/>
+      <Daily/>
       <Footer/>
       
     </div>
