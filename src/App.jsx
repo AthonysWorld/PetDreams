@@ -6,7 +6,6 @@ import Card from './Components/Card'
 import Daily from './Components/Daily'
 import Footer from './Components/Footer'
 import Store from './Components/Store'
-
 const App = () => {
   return (
     <div>
