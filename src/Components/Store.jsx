@@ -16,7 +16,7 @@ const Store = () => {
     <h1>Pet Essentials</h1>
       <div className="container-fluid row">
       <div className="container col-lg-4">
-<div className='card Daily-card'>
+<div className='card cardd Daily-card'>
 <img src={Pic3} className="card-img-top storex"/>
 <h6>Potato</h6>
 <span className='grey'>#5</span>
@@ -25,7 +25,7 @@ const Store = () => {
 </div>
       </div>
       <div className="container col-lg-4">
-      <div className='card Daily-card'>
+      <div className='card cardd Daily-card'>
     <img src={Pic4} className="card-img-top"/>
     <h6>Greek Yogurt</h6>
 <span className='grey'>#5</span>
@@ -33,7 +33,7 @@ const Store = () => {
 </div>
 </div>
 <div className="container col-lg-4">
-<div className='card Daily-card'>
+<div className='card cardd Daily-card'>
     <img src={Pic2} className="card-img-top"/>
     <h6>Chocolate</h6>
 <span className='grey'>#5</span>
@@ -41,7 +41,7 @@ const Store = () => {
 </div>
 </div>
 <div className="container col-lg-4">
-<div className='card Daily-card'>
+<div className='card cardd Daily-card'>
     <img src={Pic3} className="card-img-top"/>
     <h6>Greek Yogurt</h6>
 <span className='grey'>#5</span>
@@ -50,7 +50,7 @@ const Store = () => {
 </div>
 
 <div className="container col-lg-4">
-      <div className='card Daily-card'>
+      <div className='card cardd Daily-card'>
     <img src={Pic4} className="card-img-top"/>
     <h6>Jay</h6>
 <span className='grey'>#5</span>
@@ -58,7 +58,7 @@ const Store = () => {
 </div>
 </div>
 <div className="container col-lg-4">
-<div className='card Daily-card'>
+<div className='card cardd Daily-card'>
     <img src={Pic5} className="card-img-top"/>
     <h6>Cheese</h6>
 <span className='grey'>#5</span>
@@ -66,7 +66,7 @@ const Store = () => {
 </div>
 </div>
 <div className="container col-lg-4">
-<div className='card Daily-card'>
+<div className='card cardd Daily-card'>
     <img src={Pic6} className="card-img-top"/>
     <h6>Original Cereals</h6>
 <span className='grey'>#10</span>
@@ -74,7 +74,7 @@ const Store = () => {
 </div>
 </div>
 <div className="container col-lg-4">
-<div className='card Daily-card'>
+<div className='card cardd Daily-card'>
     <img src={Pic1} className="card-img-top"/>
     <h6>NutriChoice </h6>
 <span className='grey'>#15</span>
@@ -84,7 +84,7 @@ const Store = () => {
 </div>
 
 <div className="container col-lg-4">
-<div className='card Daily-card'>
+<div className='card cardd Daily-card'>
     <img src={Pic3} className="card-img-top"/>
     <h6>Greek Yogurt</h6>
 <span className='grey'>#5</span>

@@ -30,7 +30,10 @@ At Pet Dreams, we are committed to ensuring the health and well-being of all our
 </div>
 
 </div>
-   
+<hr/>
+<div className="copy">
+&copy; Copyright PetDreams 2023
+</div>
     </div>
    
   )

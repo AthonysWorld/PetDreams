@@ -220,7 +220,14 @@ margin: 20px;
   margin: 20px; 
   background-color: #FBF6ED;
 } */
-
+.copy{
+  padding-top: 5px;
+  padding-bottom: 5px;
+  text-align: center;
+}
+hr{
+  color: #fff;
+}
 /* Media Q */
 
 @media (max-width: 767px) {
@@ -275,5 +282,8 @@ margin: 20px;
     }
   .detailed{
 margin-bottom: 20px;
+    }
+    .cardd{
+      margin-left: 40px;
     }
 }
