@@ -4,7 +4,7 @@ import Pic2 from '../images/product6.jpg';
 
 const About = () => {
   return (
-    <div>
+    <div className='about'>
     <h3>Popular Products</h3>
       <div className="container-fluid about-row row">
 <div className="container col-lg-6">

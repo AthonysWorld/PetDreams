@@ -13,9 +13,13 @@ const Test = () => {
 
   return (
     <div>
-    <div style={{textAlign: 'center', fontSize: '2rem'}}>
+    
+    <div style={{fontSize: '2rem'}}>
+    
     <button className='btn' onClick={subtract}>-</button>
-      <button className='btn btn-cart' onClick={add}>{counter}+ Add to cart</button>
+    <span>{counter}</span>
+      <button className=' btn' onClick={add}>+</button>
+      <button className='btn btn-cart' onClick={add}>Add to cart</button>
     </div>
     </div>
   )

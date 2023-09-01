@@ -3,17 +3,36 @@
 const Footer = () => {
   return (
     <div className="Footer">
-    <div className="foot">
-    <ul>
-    <li><input placeholder="Full name"></input></li>
-    <li><input placeholder="Email address"></input></li>
-    <li><input placeholder="Message" className="message"></input></li>
-    </ul>
 
-    <button className="btn">Get in touch</button>
-    <hr/>
+<div className="row">
+<div className="col-lg-4 col-md-4  detailed">
+<h3 className="fam">PetDreams</h3>
+
+At Pet Dreams, we are committed to ensuring the health and well-being of all our furry friends is our top priority. We strive to provide the best possible care for all our pets.
+
+</div>
+
+<div className="col-lg-4 col-md-4  detailed">
+<h3 className="fam">Blog</h3>
+<p>Breeding a happy dog</p>
+<p>Furry Friend</p>
+<p>Derick the great dog</p>
+</div>
+
+
+
+<div className=" col-lg-4 col-md-4  detailed">
+<h3 className="fam">Our services</h3>
+<p>Puppy care</p>
+<p>Pharma & wellness</p>
+<p>Pet care</p>
+<p>Dog walking</p>
+</div>
+
+</div>
+   
     </div>
-    </div>
+   
   )
 }
 

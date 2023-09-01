@@ -13,7 +13,8 @@ const Daily = () => {
 <div className="card Daily-card">
 <img src={Pic1}/>
 <h6>Crushed Tomatoes</h6>
-<p>#10</p>
+<p className='grey'>#10</p>
+<p className='grey'>Great for Lactating moms</p>
 <Test/>
 </div>
 </div>
@@ -22,16 +23,18 @@ const Daily = () => {
 <div className="card Daily-card">
 <img src={Pic2}/>
 <h6>Dried beef</h6>
-<p>#11</p>
-<Test/>
+<p className='grey'>#11</p>
+<p className='grey'>For studs</p>
+  <Test/>
 </div>
 </div>
 
 <div className="container col-lg-3">
 <div className="card Daily-card">
 <img src={Pic3}/>
-<h6>Pet fruits</h6>
-<p>#6</p>
+<h3>Pet fruits</h3>
+<p className='grey'>#6</p>
+<p className='grey'>Great for pupps</p>
 <Test/>
 </div>
 </div>
